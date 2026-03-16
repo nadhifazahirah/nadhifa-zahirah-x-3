@@ -5,7 +5,7 @@ export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   const socialLinks = [
-    { icon: Github, href: '#', label: 'https://github.com/nadhifazahirah/nadhifa-zahirah-x-3.git' },
+    { icon: Github, href: 'https://github.com/nadhifazahirah/', label: 'github' },
     // { icon: Linkedin, href: '#', label: 'LinkedIn' },
     // { icon: Youtube, href: '#', label: 'YouTube' },
     // { icon: Instagram, href: '#', label: 'Instagram' },
